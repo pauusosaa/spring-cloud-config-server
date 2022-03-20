@@ -1,0 +1,2 @@
+# contiene las configuraciones generales para todos los servicios
+global.message: Configuration server is alive!

@@ -1,0 +1,6 @@
+#contiene las configuraciones para el microservicio llamado dh-cuenta-service
+
+server:
+  port: ${PORT:8889}
+
+message: configuracion custom con spring cloud config :)
